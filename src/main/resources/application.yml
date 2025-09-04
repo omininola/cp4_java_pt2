@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: cp4_pt2
+
+  datasource:
+    url: jdbc:oracle:thin:@oracle.fiap.com.br:1521:orcl
+    username: ${ORACLE_USER:RM554513}
+    password: ${ORACLE_PASS:020905}
+    driver-class-name: oracle.jdbc.OracleDriver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+server:
+  port: 8082
