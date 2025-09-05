@@ -49,10 +49,10 @@ Projeto feito seguindo as boas práticas e requisições propostas:
 ## Rodando o sistema
 ```bash
 # Clone o repositório
-git clone https://github.com/usuario/cp4_java_mvc.git
+git clone https://github.com/omininola/cp4_java_pt2.git
 
 # Entre no diretório
-cd cp4_java_mvc
+cd cp4_java_pt2
 
 # Rode com o Maven
 ./mvnw spring-boot:run
