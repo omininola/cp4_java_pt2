@@ -83,6 +83,7 @@ http://localhost:8082
   ![novo_produto_clear](docs/novo_produto_clear.jpg)
 
 - Cadastrando produto
+  
   ![novo_produto](docs/novo_produto.jpg)
 
 - Listagem de produtos com produto cadastrado
