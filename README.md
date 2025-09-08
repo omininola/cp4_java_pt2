@@ -17,6 +17,7 @@ Nesta parte, foi implementada uma **interface web** utilizando **Thymeleaf**, pe
 ---
 
 ## Sumário
+- [Links importantes](#links)
 - [Definição do projeto](#definição)
     - [Tecnologias](#tecnologias)
 - [Rodando o sistema](#rodando-o-sistema)
@@ -24,6 +25,11 @@ Nesta parte, foi implementada uma **interface web** utilizando **Thymeleaf**, pe
 - [Prints da interface](#prints-da-interface)
 
 ---
+
+## Links
+- Github: [https://github.com/omininola/cp4_java_pt2](https://github.com/omininola/cp4_java_pt2)
+- Vídeo: [https://youtu.be/ATE5ebPPumk](https://youtu.be/ATE5ebPPumk)
+- Deploy [Render]: [https://cp4-java-pt2.onrender.com](https://cp4-java-pt2.onrender.com)
 
 ## Definição
 
